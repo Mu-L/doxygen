@@ -36,6 +36,7 @@ var class_translator_portuguese =
     [ "trCompoundReferenceFortran", "dc/df2/class_translator_portuguese.html#a5cfc99c1ed2efecb75b06bc2e3f8885b", null ],
     [ "trCompoundReferenceSlice", "dc/df2/class_translator_portuguese.html#aaccdc9a1d69bc4ffdb6763556d50dc1a", null ],
     [ "trCompounds", "dc/df2/class_translator_portuguese.html#aa974995ae597bf8818937c9e00a4c103", null ],
+    [ "trCompoundType", "dc/df2/class_translator_portuguese.html#a26a649b088051d95367688e6b89ea947", null ],
     [ "trConcept", "dc/df2/class_translator_portuguese.html#a1db55f1037892f1de3e90e6002c4cc99", null ],
     [ "trConceptDefinition", "dc/df2/class_translator_portuguese.html#adb7dad0b8f9a9250c0e45227764f9196", null ],
     [ "trConceptDocumentation", "dc/df2/class_translator_portuguese.html#a9bc60abbf219d59e85d87a3d9eba54b0", null ],
@@ -54,7 +55,7 @@ var class_translator_portuguese =
     [ "trDataMembers", "dc/df2/class_translator_portuguese.html#ae49f6c383b707fcf26cfa99d787da7e1", null ],
     [ "trDataTypes", "dc/df2/class_translator_portuguese.html#ae093d4bfe038bacb3f4c0313196db34f", null ],
     [ "trDate", "dc/df2/class_translator_portuguese.html#a8cf39fc583129912800db26379efe8b5", null ],
-    [ "trDateTime", "dc/df2/class_translator_portuguese.html#a361ab969f387e33f0204d8398571d2b3", null ],
+    [ "trDateTime", "dc/df2/class_translator_portuguese.html#a0764c02b5b4b4b61869798c11ae7fc8c", null ],
     [ "trDayOfWeek", "dc/df2/class_translator_portuguese.html#a46c70413432acd03e300ec8818fc335e", null ],
     [ "trDayPeriod", "dc/df2/class_translator_portuguese.html#a1590a713ee46a5a785ba31c08b319799", null ],
     [ "trDefinedAtLineInSourceFile", "dc/df2/class_translator_portuguese.html#ac221da9032740897823818dc88a3a820", null ],
@@ -95,7 +96,6 @@ var class_translator_portuguese =
     [ "trEnumValue", "dc/df2/class_translator_portuguese.html#a003f65dcb1899d8fa0a7904ea7d1ff45", null ],
     [ "trEventDocumentation", "dc/df2/class_translator_portuguese.html#a74a3dcbae4a9f56c143ad597c5eb3295", null ],
     [ "trEvents", "dc/df2/class_translator_portuguese.html#a3d881a57ecc9b039ad91d4f811082e07", null ],
-    [ "trExampleDocumentation", "dc/df2/class_translator_portuguese.html#afd4d5a5fa30767abf396574af3b22edf", null ],
     [ "trExamples", "dc/df2/class_translator_portuguese.html#af6b3271c54d8083d9a2a91a737b4e2f8", null ],
     [ "trExamplesDescription", "dc/df2/class_translator_portuguese.html#a2923bc757e192fb65a4c22ae7298bb51", null ],
     [ "trExceptionDocumentation", "dc/df2/class_translator_portuguese.html#af80598b8a15e85495c7214cfa6a6f307", null ],
@@ -289,7 +289,7 @@ var class_translator_portuguese =
     [ "trVariableDocumentation", "dc/df2/class_translator_portuguese.html#a20cc092c5f3ceeb96718275d57bf807c", null ],
     [ "trVariables", "dc/df2/class_translator_portuguese.html#a7863f5711f87ec7863e5e77914cfa0d8", null ],
     [ "trVersion", "dc/df2/class_translator_portuguese.html#a6026e4f3c598b15748761d53cc48914f", null ],
-    [ "trVhdlType", "dc/df2/class_translator_portuguese.html#a6325d2a54184a560be92f926eecbe323", null ],
+    [ "trVhdlType", "dc/df2/class_translator_portuguese.html#a43785dedea5eb5ebe6be7e1dab3f15f4", null ],
     [ "trWarning", "dc/df2/class_translator_portuguese.html#af7a7513d569c37b9133bb8c63e9b6420", null ],
     [ "trWriteList", "dc/df2/class_translator_portuguese.html#a771f788b30c419b14172504ca0299ce7", null ]
 ];

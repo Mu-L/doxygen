@@ -126,6 +126,9 @@ digraph "/home/runner/work/doxygen/doxygen/src/defargs.l"
   Node40 -> Node7 [color="steelblue1",style="solid"];
   Node40 -> Node41 [color="steelblue1",style="solid"];
   Node41 [label="index.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/db5/index_8h.html",tooltip=" "];
+  Node41 -> Node18 [color="steelblue1",style="solid"];
+  Node41 -> Node20 [color="steelblue1",style="solid"];
+  Node41 -> Node37 [color="steelblue1",style="solid"];
   Node41 -> Node8 [color="steelblue1",style="solid"];
   Node40 -> Node42 [color="steelblue1",style="solid"];
   Node42 [label="section.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d2a/section_8h.html",tooltip=" "];
@@ -190,5 +193,9 @@ digraph "/home/runner/work/doxygen/doxygen/src/defargs.l"
   Node53 [label="cstdarg",height=0.2,width=0.4,color="grey60", fillcolor="#E0E0E0", style="filled",tooltip=" "];
   Node52 -> Node8 [color="steelblue1",style="solid"];
   Node1 -> Node54 [color="steelblue1",style="solid"];
-  Node54 [label="doxygen_lex.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d6/da5/doxygen__lex_8h.html",tooltip=" "];
+  Node54 [label="debug.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/d16/debug_8h.html",tooltip=" "];
+  Node54 -> Node15 [color="steelblue1",style="solid"];
+  Node54 -> Node8 [color="steelblue1",style="solid"];
+  Node1 -> Node55 [color="steelblue1",style="solid"];
+  Node55 [label="doxygen_lex.h",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d6/da5/doxygen__lex_8h.html",tooltip=" "];
 }

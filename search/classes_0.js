@@ -6,7 +6,7 @@ var searchData=
   ['addcontentsitem_3',['addContentsItem',['../df/d1e/struct_index_intf_1_1add_contents_item.html',1,'IndexIntf']]],
   ['addimagefile_4',['addImageFile',['../d5/d8a/struct_index_intf_1_1add_image_file.html',1,'IndexIntf']]],
   ['addindexfile_5',['addIndexFile',['../d4/d2c/struct_index_intf_1_1add_index_file.html',1,'IndexIntf']]],
-  ['addindexitem_6',['addIndexItem',['../d9/d42/struct_index_intf_1_1add_index_item.html',1,'IndexIntf']]],
+  ['addindexitem_6',['addIndexItem',['../d9/d42/struct_index_intf_1_1add_index_item.html',1,'IndexIntf::addIndexItem&lt; T &gt;'],['../d7/d6c/struct_output_gen_intf_1_1add_index_item.html',1,'OutputGenIntf::addIndexItem&lt; T &gt;']]],
   ['addstylesheetfile_7',['addStyleSheetFile',['../d5/df2/struct_index_intf_1_1add_style_sheet_file.html',1,'IndexIntf']]],
   ['addword_8',['addWord',['../d2/d4d/struct_search_index_methods_1_1add_word.html',1,'SearchIndexMethods']]],
   ['allmemberslistcontext_9',['AllMembersListContext',['../d6/d10/class_all_members_list_context.html',1,'']]],
@@ -17,5 +17,7 @@ var searchData=
   ['argumentlist_14',['ArgumentList',['../d7/df8/class_argument_list.html',1,'']]],
   ['argumentlistcontext_15',['ArgumentListContext',['../d3/d8a/class_argument_list_context.html',1,'']]],
   ['autonodestack_16',['AutoNodeStack',['../d2/d29/class_auto_node_stack.html',1,'']]],
-  ['autoregister_17',['AutoRegister',['../d4/d67/class_template_filter_factory_1_1_auto_register.html',1,'TemplateFilterFactory::AutoRegister&lt; T &gt;'],['../dd/d26/class_template_node_factory_1_1_auto_register.html',1,'TemplateNodeFactory::AutoRegister&lt; T &gt;']]]
+  ['autoregister_17',['AutoRegister',['../d4/d67/class_template_filter_factory_1_1_auto_register.html',1,'TemplateFilterFactory::AutoRegister&lt; T &gt;'],['../dd/d26/class_template_node_factory_1_1_auto_register.html',1,'TemplateNodeFactory::AutoRegister&lt; T &gt;']]],
+  ['autotimekeeper_18',['AutoTimeKeeper',['../df/d45/class_auto_time_keeper.html',1,'']]],
+  ['autotrace_19',['AutoTrace',['../d5/dca/class_auto_trace.html',1,'']]]
 ];
